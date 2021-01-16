@@ -1,0 +1,16 @@
+C:\Users\Administrador.AT_DFTI_EITI_RV\Documents\ProjectosIndividuais\Aulas_NET\Pauta\bin\Debug\net5.0\Pauta.exe
+C:\Users\Administrador.AT_DFTI_EITI_RV\Documents\ProjectosIndividuais\Aulas_NET\Pauta\bin\Debug\net5.0\Pauta.deps.json
+C:\Users\Administrador.AT_DFTI_EITI_RV\Documents\ProjectosIndividuais\Aulas_NET\Pauta\bin\Debug\net5.0\Pauta.runtimeconfig.json
+C:\Users\Administrador.AT_DFTI_EITI_RV\Documents\ProjectosIndividuais\Aulas_NET\Pauta\bin\Debug\net5.0\Pauta.runtimeconfig.dev.json
+C:\Users\Administrador.AT_DFTI_EITI_RV\Documents\ProjectosIndividuais\Aulas_NET\Pauta\bin\Debug\net5.0\Pauta.dll
+C:\Users\Administrador.AT_DFTI_EITI_RV\Documents\ProjectosIndividuais\Aulas_NET\Pauta\bin\Debug\net5.0\ref\Pauta.dll
+C:\Users\Administrador.AT_DFTI_EITI_RV\Documents\ProjectosIndividuais\Aulas_NET\Pauta\bin\Debug\net5.0\Pauta.pdb
+C:\Users\Administrador.AT_DFTI_EITI_RV\Documents\ProjectosIndividuais\Aulas_NET\Pauta\obj\Debug\net5.0\Pauta.csprojAssemblyReference.cache
+C:\Users\Administrador.AT_DFTI_EITI_RV\Documents\ProjectosIndividuais\Aulas_NET\Pauta\obj\Debug\net5.0\Pauta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador.AT_DFTI_EITI_RV\Documents\ProjectosIndividuais\Aulas_NET\Pauta\obj\Debug\net5.0\Pauta.AssemblyInfoInputs.cache
+C:\Users\Administrador.AT_DFTI_EITI_RV\Documents\ProjectosIndividuais\Aulas_NET\Pauta\obj\Debug\net5.0\Pauta.AssemblyInfo.cs
+C:\Users\Administrador.AT_DFTI_EITI_RV\Documents\ProjectosIndividuais\Aulas_NET\Pauta\obj\Debug\net5.0\Pauta.csproj.CoreCompileInputs.cache
+C:\Users\Administrador.AT_DFTI_EITI_RV\Documents\ProjectosIndividuais\Aulas_NET\Pauta\obj\Debug\net5.0\Pauta.dll
+C:\Users\Administrador.AT_DFTI_EITI_RV\Documents\ProjectosIndividuais\Aulas_NET\Pauta\obj\Debug\net5.0\ref\Pauta.dll
+C:\Users\Administrador.AT_DFTI_EITI_RV\Documents\ProjectosIndividuais\Aulas_NET\Pauta\obj\Debug\net5.0\Pauta.pdb
+C:\Users\Administrador.AT_DFTI_EITI_RV\Documents\ProjectosIndividuais\Aulas_NET\Pauta\obj\Debug\net5.0\Pauta.genruntimeconfig.cache
